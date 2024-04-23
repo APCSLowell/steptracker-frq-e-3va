@@ -5,7 +5,7 @@ public class StepTracker
     private int min, total, days, activeDays;
  
     public StepTracker(int minActivity) {
-       // min = minActivity;
+       min = minActivity;
        // total = 0;
        // days = 0;
        // activeDays = 0;
